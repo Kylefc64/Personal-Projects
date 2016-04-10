@@ -1,1 +1,1 @@
-My solutions to various Project Euler problems in C
+My solutions to various Project Euler problems in C (coming soon)
